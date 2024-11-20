@@ -1,0 +1,26 @@
+.container {
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.columna {
+    width: 33%; 
+    float: left; 
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.columna img {
+    width: 100%; 
+    height: auto; 
+    border: 2px solid black;
+}
+.clear {
+    clear: both;
+}
+
+.container {
+    border: 2px solid gray; 
+    background-color: #a22;
+}
